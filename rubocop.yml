@@ -2,6 +2,8 @@ AllCops:
   Exclude:
     - 'db/schema.rb'
     - 'vendor/bundle/**/*'
+    - 'config/**/*'
+    - 'bin/**/*'
 
 require:
   - rubocop-rails
