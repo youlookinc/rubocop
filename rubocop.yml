@@ -37,7 +37,7 @@ Style/FrozenStringLiteralComment:
     - 'db/migrate/*.rb'
 
 Metrics/MethodLength:
-  Max: 15
+  Max: 30
 
 Layout/LineLength:
   Description: 'Limit lines to 120 characters.'
